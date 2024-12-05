@@ -1,0 +1,33 @@
+.container {
+    width: 1500px;
+    height: 500px;
+    margin: 15px;
+}
+
+.iteam_1,
+.iteam_2,
+.iteam_3,
+.iteam_4,
+.iteam_5,
+.iteam_6,
+.iteam_7,
+.iteam_8 {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(96, 206, 225);
+    background-color: rgb(12, 12, 12);
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    margin: 0px;
+}
